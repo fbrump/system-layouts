@@ -23,8 +23,14 @@
       </li>
     </ul>
   </nav>
-
   <router-view />
+  <footer>
+    <small>
+      Copyright © 2024 Felipe Brum. All Rights Reserved.
+    </small>
+    <a href="#privacy-policy">Privacy Policy</a> <br />
+    <a href="#terms">Terms</a>
+  </footer>
 </template>
 
 <style scoped>
