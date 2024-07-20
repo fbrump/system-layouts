@@ -10,7 +10,7 @@ const routes = [
   { path: '/', component: HomePage },
   { path: '/home', component: HomePage },
   { path: '/articles', component: ArticlesPage },
-  { path: '/articles/:id', component: ArticlePage },
+  { path: '/articles/:slug', component: ArticlePage, props: true },
   { path: '/contact', component: ContactPage },
   {
     path: '/:catchAll(.*)*',
