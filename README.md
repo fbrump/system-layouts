@@ -26,3 +26,10 @@ Next, run the server.
 yarn run dev
 
 ```
+# CSS
+
+In the work with TailwindCSS is important to have it intsalled in the yarn, and watch all the changes.
+
+```bash
+npx tailwindcss -i ./src/style.css -o ./src/output.css --watch
+```
