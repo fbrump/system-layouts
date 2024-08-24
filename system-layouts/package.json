@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build-css": "npx tailwindcss -o dist/output.min.css --minify",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -15,6 +16,9 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
     "vite": "^5.3.1"
   }
 }
