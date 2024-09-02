@@ -24,7 +24,7 @@
         <address>
           By Marky
         </address>
-        <router-link to="/articles/python-in-daily-work" class="text-center bg-amber-700 rounded-full p-1">
+        <router-link to="/articles/python-in-daily-work" class="text-center bg-amber-900 hover:bg-amber-800 text-gray-200 rounded-full p-1">
           Read More
         </router-link>
       </footer>
@@ -44,7 +44,7 @@
         <address>
           By Leon Ho
         </address>
-        <router-link to="/articles/how-to-organize-your-life" class="text-center bg-amber-700 rounded-full p-1">
+        <router-link to="/articles/how-to-organize-your-life" class="text-center bg-amber-900 hover:bg-amber-800 text-gray-200 rounded-full p-1">
           Read More
         </router-link>
       </footer>
@@ -64,7 +64,7 @@
         <address>
           By April Bohnert
         </address>
-        <router-link to="/articles/linux-and-open-source" class="text-center bg-amber-700 rounded-full p-1">
+        <router-link to="/articles/linux-and-open-source" class="text-center bg-amber-900 hover:bg-amber-800 text-gray-200 rounded-full p-1">
           Read More
         </router-link>
       </footer>
@@ -84,7 +84,7 @@
         <address>
           By Rahul Awati & Ivy Wigmore
         </address>
-        <router-link to="/articles/monolithic-architecture" class="text-center bg-amber-700 rounded-full p-1">
+        <router-link to="/articles/monolithic-architecture" class="text-center bg-amber-900 hover:bg-amber-800 text-gray-200 rounded-full p-1">
           Read More
         </router-link>
       </footer>
@@ -104,7 +104,7 @@
         <address>
           By J.K. Hiu
         </address>
-        <router-link to="/articles/how-to-take-study-notes" class="text-center bg-amber-700 rounded-full p-1">
+        <router-link to="/articles/how-to-take-study-notes" class="text-center bg-amber-900 hover:bg-amber-800 text-gray-200 rounded-full p-1">
           Read More
         </router-link>
       </footer>
@@ -124,7 +124,7 @@
         <address>
           By Jörg von Garrel
         </address>
-        <router-link to="/articles/the-impact-of-ai-on-study" class="text-center bg-amber-700 rounded-full p-1">
+        <router-link to="/articles/the-impact-of-ai-on-study" class="text-center bg-amber-900 hover:bg-amber-800 text-gray-200 rounded-full p-1">
           Read More
         </router-link>
       </footer>
@@ -144,7 +144,7 @@
         <address>
           By Bluehost
         </address>
-        <router-link to="/articles/what-is-minimalism" class="text-center bg-amber-700 rounded-full p-1">
+        <router-link to="/articles/what-is-minimalism" class="text-center bg-amber-900 hover:bg-amber-800 text-gray-200 rounded-full p-1">
           Read More
         </router-link>
       </footer>
@@ -164,7 +164,7 @@
         <address>
           By Yunuen Bonaparte
         </address>
-        <router-link to="/articles/work-life-balance" class="text-center bg-amber-700 rounded-full p-1">
+        <router-link to="/articles/work-life-balance" class="text-center bg-amber-900 hover:bg-amber-800 text-gray-200 rounded-full p-1">
           Read More
         </router-link>
       </footer>
@@ -184,7 +184,7 @@
         <address>
           By Debbie Pincus
         </address>
-        <router-link to="/articles/motivate-your-kids" class="text-center bg-amber-700 rounded-full p-1">
+        <router-link to="/articles/motivate-your-kids" class="text-center bg-amber-900 hover:bg-amber-800 text-gray-200 rounded-full p-1">
           Read More
         </router-link>
       </footer>
