@@ -26,12 +26,20 @@
     </div>
   </nav>
   <router-view />
-  <footer>
+  <footer class="bg-green-800 text-center py-32">
     <small>
       Copyright © 2024 Felipe Brum. All Rights Reserved.
     </small>
-    <a href="#privacy-policy">Privacy Policy</a> <br />
-    <a href="#terms">Terms</a>
+    <nav>
+      <ul>
+        <li>
+          <a href="#privacy-policy">Privacy Policy</a>
+        </li>
+        <li>
+          <a href="#terms">Terms</a>
+        </li>
+      </ul>
+    </nav>
   </footer>
 </template>
 
