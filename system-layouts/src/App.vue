@@ -33,10 +33,10 @@
     <nav>
       <ul>
         <li>
-          <a href="#privacy-policy">Privacy Policy</a>
+          <router-link to="/privacy-policy" title="Go to the privacy Policy">Privacy Policy</router-link>
         </li>
         <li>
-          <a href="#terms">Terms</a>
+          <router-link to="/terms-of-service" title="Go to terms of service">Terms</router-link>
         </li>
       </ul>
     </nav>
